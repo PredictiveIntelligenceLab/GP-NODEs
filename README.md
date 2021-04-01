@@ -8,4 +8,9 @@ This paper presents a machine learning framework for Bayesian systems identifica
 
 ## Citation
 
-TBA
+    @article{bhouri2021gaussian,
+      title={Gaussian processes meet NeuralODEs: A Bayesian framework for learning the dynamics of partially observed systems from scarce and noisy data},
+      author={Bhouri, Mohamed Aziz and Perdikaris, Paris},
+      journal={arXiv preprint arXiv:2103.03385},
+      year={2021}
+    }
